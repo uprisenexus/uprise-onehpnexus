@@ -4,7 +4,7 @@ Welcome to the Uprise Nexus team's repository for the IRCITE Hackathon 2024! Thi
 
 ## Team Members
 - Mark David Basinilio
-- Neil Zapanta
+- Neil Carlo Zapanta
 - Andrea Dela Torre
 - Bob Myron Reyes
 
